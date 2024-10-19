@@ -1,0 +1,14 @@
+name: "My Action"
+description: "A brief description of your action"
+runs:
+  using: "node12"
+  main: "dist/index.js"
+inputs:
+  myInput:
+    description: "This is an input"
+    required: true
+    default: "default value"
+outputs:
+  myOutput:
+    description: "This is an output"
+    value: "${{ steps.step_id.outputs.output_name }}"
