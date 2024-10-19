@@ -1,14 +1,19 @@
-name: "My Action"
-description: "A brief description of your action"
+name: "Podcast Generator"
+author: "Sachin Singh"  # Use a colon (:) instead of a space before it
+description: "Generates a feed for a podcast from YAML file"
 runs:
-  using: "node12"
-  main: "dist/index.js"
+  using: "docker"
+  image: "Dockerfile"
+branding:
+  icon: "git-branch"
+  color: "red"  # The quote should be double quotes, not a mix of single and double
 inputs:
-  myInput:
-    description: "This is an input"
+  email:
+    description: "The Committer's email address"  # Use quotes for the description
     required: true
-    default: "default value"
-outputs:
-  myOutput:
-    description: "This is an output"
-    value: "${{ steps.step_id.outputs.output_name }}"
+    default: ${{ github.actor }}@localhost  # Ensure correct casing for `github.actor`
+  name:  # Ensure this is indented properly under `inputs`
+    description: "The committer's name"  # Use quotes for the description
+    required: true
+    default: ${{ github.actor }}  # Ensure correct casing for `github.actor`
+
