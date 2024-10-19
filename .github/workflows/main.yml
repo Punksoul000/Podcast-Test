@@ -1,30 +1,10 @@
-# This is a comment to trigger a change
-
-name: CI Pipeline
-
-on:
-  push:
-    branches:
-      - main
-
+name: Generate Podcast Feeds
+on: [push]
 jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Run tests
-        run: npm test
-
-
-
+ build:
+  runs-on: ubuntu-latest
+  steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v3
+    - name: Run Feed Generator
+      uses: Punksoul000/Podcast-generator/@main
