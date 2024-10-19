@@ -9,10 +9,10 @@
   "author": "Your Name",
   "license": "ISC",
   "dependencies": {
-    // Add your actual dependencies here, but without comments
+    "some-dependency": "^1.0.0"  
   },
   "devDependencies": {
-    // Add your dev dependencies here, but without comments
+    "some-dev-dependency": "^1.0.0"  
   }
 }
 
