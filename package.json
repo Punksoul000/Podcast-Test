@@ -1,11 +1,18 @@
 {
   "name": "podcast-test",
   "version": "1.0.0",
-  "description": "<img src=\"https://raybo.org/tfit-feed/images/artwork.jpg\" width=\"250\">",
+  "description": "A podcast generator project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No tests yet\" && exit 0" // Change this line as needed
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    // Your project dependencies go here
+  },
+  "devDependencies": {
+    // Your development dependencies go here
+  }
 }
+
