@@ -1,0 +1,97 @@
+[33mcommit 0bd8572e0007a458e22d15f216fb31816d10bb0a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sachin Singh <88969059+Punksoul000@users.noreply.github.com>
+Date:   Sat Oct 19 04:09:00 2024 +0000
+
+    Trigger change in main.yml
+
+[33mcommit 07ffcdaa17af06f6ffa1ac94596c34417c457eaf[m
+Author: Sachin Singh <88969059+Punksoul000@users.noreply.github.com>
+Date:   Sat Oct 19 04:05:59 2024 +0000
+
+    Fix YAML syntax error in main.yml
+
+[33mcommit 15456eed3e92004a2d3db9933d7b087d122d96cf[m
+Author: Sachin Singh <88969059+Punksoul000@users.noreply.github.com>
+Date:   Sat Oct 19 04:04:43 2024 +0000
+
+    Fix YAML syntax error in main.yml
+
+[33mcommit 4808fcd13e2edaff94e54d4fa9592d464e80eb50[m
+Merge: 74a96e5 4b9233d
+Author: Sachin Singh <88969059+Punksoul000@users.noreply.github.com>
+Date:   Sat Oct 19 04:00:21 2024 +0000
+
+    Resolved merge conflicts
+
+[33mcommit 74a96e56d8d6405e9b6b33503af3cce3b54cfe22[m
+Author: Sachin Singh <88969059+Punksoul000@users.noreply.github.com>
+Date:   Sat Oct 19 03:58:14 2024 +0000
+
+    Ensure package.json exists and update workflow
+
+[33mcommit 4b9233d4d6b1c4304f6d1f4435be3c0d70fc197c[m
+Author: Sachin Singh <88969059+Punksoul000@users.noreply.github.com>
+Date:   Sat Oct 19 09:42:38 2024 +0545
+
+    Update main.yml
+
+[33mcommit 30d7ef43fd588d931caf13e8ccd3ba89406c4958[m
+Author: Sachin Singh <88969059+Punksoul000@users.noreply.github.com>
+Date:   Sat Oct 19 09:33:55 2024 +0545
+
+    Update main.yml
+
+[33mcommit 5550ce10e0f37f2b81cb22c1ddcdb1cf777b90f0[m
+Author: Sachin Singh <88969059+Punksoul000@users.noreply.github.com>
+Date:   Sat Oct 19 09:20:04 2024 +0545
+
+    Update main.yml
+
+[33mcommit f3d05743178172e56fa051954be0d79de45b3de3[m
+Author: Sachin Singh <88969059+Punksoul000@users.noreply.github.com>
+Date:   Fri Oct 18 22:54:56 2024 +0545
+
+    Update feed.yaml
+
+[33mcommit ac21ab9121b9f913a69f8155837111d5ab266921[m
+Author: Sachin Singh <88969059+Punksoul000@users.noreply.github.com>
+Date:   Fri Oct 18 22:51:13 2024 +0545
+
+    Update feed.yaml
+
+[33mcommit 065efac66decb56c9d3c1cc4f8404f4ea9362fc3[m
+Merge: 4e5543e 311b88e
+Author: Sachin Singh <88969059+Punksoul000@users.noreply.github.com>
+Date:   Fri Oct 18 17:01:16 2024 +0000
+
+    Resolved merge conflict in main.yml
+
+[33mcommit 4e5543e5bddb144de7c6faab8885644281229ae5[m
+Author: Sachin Singh <88969059+Punksoul000@users.noreply.github.com>
+Date:   Fri Oct 18 16:54:53 2024 +0000
+
+    Add CI workflow
+
+[33mcommit 311b88e0489f5517d0b4dc1ca75be8263dadc8b2[m
+Author: Sachin Singh <88969059+Punksoul000@users.noreply.github.com>
+Date:   Fri Oct 18 22:34:11 2024 +0545
+
+    Create main.yml
+
+[33mcommit 523d2352c52324ff16f058b35e6eda969a08258e[m
+Author: Sachin Singh <88969059+Punksoul000@users.noreply.github.com>
+Date:   Fri Oct 18 16:32:51 2024 +0000
+
+    Your commit message here
+
+[33mcommit 3035086b02f025d99cf83ed29e2997518f4232f7[m[33m ([m[1;31morigin/01_04e[m[33m, [m[1;32m01_04e[m[33m)[m
+Author: Sachin Singh <88969059+Punksoul000@users.noreply.github.com>
+Date:   Fri Oct 18 19:10:45 2024 +0545
+
+    Rename README-feed.md to README.md
+
+[33mcommit 6da982e431e2af90d223819d09e8d9effc921762[m
+Author: Sachin Singh <88969059+Punksoul000@users.noreply.github.com>
+Date:   Fri Oct 18 19:09:23 2024 +0545
+
+    First Commit
