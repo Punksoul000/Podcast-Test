@@ -4,15 +4,15 @@
   "description": "A podcast generator project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests yet\" && exit 0" // Change this line as needed
+    "test": "echo \"No tests yet\" && exit 0"
   },
   "author": "Your Name",
   "license": "ISC",
   "dependencies": {
-    // Your project dependencies go here
+    // Your dependencies can go here
   },
   "devDependencies": {
-    // Your development dependencies go here
+    // Your development dependencies can go here
   }
 }
 
